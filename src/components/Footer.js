@@ -4,10 +4,10 @@ import logo from "../images/logo.svg";
 const Footer = () => {
   return (
     <footer>
-      <a href="/" className="brand">
+      {/* <a href="/" className="brand">
         <img src={logo} alt="Logo" className="brand-img" />
         Aplikasi web serderhana untuk mencari resep masakan khas indonesia
-      </a>
+      </a> */}
       <ul className="scm-list">
         <li>
           <a
