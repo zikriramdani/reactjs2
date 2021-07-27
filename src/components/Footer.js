@@ -12,7 +12,7 @@ const Footer = () => {
         <li>
           <a
             className="scm-icon"
-            href="https://facebook.com/people/Indra-Adi-Kusuma/100009019826862/"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -22,7 +22,7 @@ const Footer = () => {
         <li>
           <a
             className="scm-icon"
-            href="https://www.instagram.com/mrx.indra/"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -32,7 +32,7 @@ const Footer = () => {
         <li>
           <a
             className="scm-icon"
-            href="https://github.com/indraAK"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
           >
