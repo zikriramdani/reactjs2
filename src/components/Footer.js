@@ -14,7 +14,6 @@ const Footer = () => {
             className="scm-icon"
             href="/"
             rel="noopener noreferrer"
-            target="_blank"
           >
             <FaFacebook />
           </a>
@@ -24,7 +23,6 @@ const Footer = () => {
             className="scm-icon"
             href="/"
             rel="noopener noreferrer"
-            target="_blank"
           >
             <FaInstagram />
           </a>
@@ -34,7 +32,6 @@ const Footer = () => {
             className="scm-icon"
             href="/"
             rel="noopener noreferrer"
-            target="_blank"
           >
             <FaGithub />
           </a>
