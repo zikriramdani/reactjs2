@@ -14,7 +14,8 @@
 
  <p>Aplikasi ini dibuat menggunakan ReactJS dengan tambahan package-package lain, seperti :<br><br>
  1) React Router,<br>
- 2) Dll.</p>
+ 2) Axios,<br>
+ 3) Dll.</p>
 
 Cara menjalankan Aplikasi : 
 - Simpan Project di /htdocs (kalau pake xampp)
