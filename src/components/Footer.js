@@ -12,7 +12,7 @@ const Footer = () => {
         <li>
           <a
             className="scm-icon"
-            href="#"
+            href="/"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -22,7 +22,7 @@ const Footer = () => {
         <li>
           <a
             className="scm-icon"
-            href="#"
+            href="/"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -32,7 +32,7 @@ const Footer = () => {
         <li>
           <a
             className="scm-icon"
-            href="#"
+            href="/"
             rel="noopener noreferrer"
             target="_blank"
           >
