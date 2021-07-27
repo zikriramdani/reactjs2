@@ -1,39 +1,21 @@
-# Gorecipe
+![result](https://github.com/zikriramdani/laravel1/blob/main/screencapture.png)
 
-Aplikasi web serderhana untuk mencari resep masakan khas indonesia yang dibuat menggunakan ReactJS.
-
-<p align="center">
-<br>
-   <img src="https://i.ibb.co/fD4gkJ8/home.png" border="0" width="350">
+<b>Aplikasi web serderhana untuk mencari resep masakan khas indonesia.</b><br>
+<hr>
+<p>
+    Aplikasi ini mempunyai fitur : 
 </p>
+<ul>
+        <li> Cari resep</li>
+        <li> Toggle save resep</li>
+</ul>
 
-## Setup
+ <p>Aplikasi ini dibuat menggunakan ReactJS dengan tambahan package-package lain, seperti :<br><br>
+ 1) React Router,<br>
+ 2) Dll.</p>
 
-1. Download ZIP / Clone repo gorecipe
-2. Buka Appnya di text editor vscode / lainnya
-3. Buka terminal, pastikan arah pointernya mengarah ke folder gorecipe yg telah didownload
-4. kemudian jalankan perintah `npm install` untuk menginstall semua dependencies
-5. jalankan perintah `npm start` untuk menjalankan Aplikasinya di mode development
-6. Buka [http://localhost:3000](http://localhost:3000) untuk melihat hasil aplikasi webnya.
-
-## Fitur
-
-- Cari resep
-- Toggle save resep
-- Routing halaman
-
-## Dibuat menggunakan
-
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- React Router
-
-## Demo
-
-[Gorecipe](https://sleepy-sammet-890358.netlify.app/)
-
-### Thanks to
-
-Terima kasih untuk [farizdotid](https://github.com/farizdotid) & [tomorisakura](https://github.com/tomorisakura) telah menyediakan API Resep masakan indonesia
+Cara menjalankan Aplikasi : 
+- Simpan Project di /htdocs (kalau pake xampp)
+- jalankan "npm install" di dalam terminal/cmd
+- di dalam directory project buka terminal, ketikan "npm start"
+- buka browser, ketikan url "localhost:3000"
