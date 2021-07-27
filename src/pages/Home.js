@@ -29,7 +29,7 @@ const Home = () => {
     <>
       <section className="hero">
         <div className="container">
-          <h1>Gorecipe menyediakan kumpulan resep masakan khas indonesia</h1>
+          <h1>Menyediakan kumpulan resep masakan khas indonesia</h1>
           <SearchBar value={query ? query : ""} />
           <div className="mouse-scroll-anim" onClick={handleScrollDown}></div>
         </div>

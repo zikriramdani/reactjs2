@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <a href="/" className="brand">
         <img src={logo} alt="Logo" className="brand-img" />
-        gorecipe
+        Aplikasi web serderhana untuk mencari resep masakan khas indonesia
       </a>
       <ul className="scm-list">
         <li>
@@ -41,7 +41,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className="copyright-text">
-        <small>&copy; Copyright 2021 gorecipe</small>
+        <small>&copy; Copyright 2021 Aplikasi web serderhana untuk mencari resep masakan khas indonesia</small>
       </p>
     </footer>
   );

@@ -12,7 +12,7 @@ const Navbar = () => {
         <nav className="navbar">
           <NavLink to="/" className="brand">
             <img src={logo} alt="Logo" className="brand-img" />
-            gorecipe
+            Resep
           </NavLink>
           <ul className="nav-list">
             <li className="nav-item">
